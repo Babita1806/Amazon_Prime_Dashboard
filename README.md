@@ -1,10 +1,10 @@
 📊 Amazon Business Dashboard – Sales & Subscription Analysis (Power BI)
 
-📁 Project Overview
+📁 Project Overview-
 This Power BI dashboard provides a comprehensive analysis of Amazon’s business performance, focusing on both sales data and subscription services. The dashboard empowers stakeholders to visualize and understand patterns in revenue, customer behavior, product performance, and subscription trends — all in one place.
 
 
-📦 Dataset
+📦 Dataset-
 Source: Kaggle – Amazon Dataset
 Format: Excel
 
@@ -18,7 +18,7 @@ Typical Features:
 7. Feedback / Ratings
 8. Location 
 
-🎯 Key Objectives
+🎯 Key Objectives:
 - Identity average rating 
 - Identify best-selling product categories.
 - Analyze regional sales performance.
